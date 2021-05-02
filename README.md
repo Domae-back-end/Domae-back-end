@@ -3,7 +3,7 @@
 - 🌱 현재 Spring 과 kotlin 이용해서 mvvm 패턴으로 안드로이드 개발을 공부하고 있습니다.
 - 💞️ 협업 문의는 아래의 이메일로 연락주시면 감사하겠습니다.
 - 이메일 : ty_ty123@naver.com
-- 📫 Possessed kills
+- 📫 Possessed Skills
 - Java (상)
 - Spring (중)
 - Kotlin (중)
