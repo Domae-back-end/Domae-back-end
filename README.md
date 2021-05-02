@@ -5,12 +5,12 @@
 - 이메일 : ty_ty123@naver.com
 - 📫 Possessed Skills
 - Java (상)
-- Spring (중)
-- Kotlin (중)
-- Android (중)
-- Maria DB (중)
 - JSP (상)
-- CentOS (하)
 - HTML / CSS (상)
 - Javascipt, JQuery (중)
+- Spring (중)
+- Kotlin (중)
+- Android Studio (중)
+- Maria DB (중)
+- CentOS (하)
 
