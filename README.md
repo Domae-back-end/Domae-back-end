@@ -11,6 +11,6 @@
 - Spring (중)
 - Kotlin (중)
 - Android Studio (중)
-- Maria DB (중)
+- Maria DB (중) , JPA (하)
 - CentOS (하)
 
