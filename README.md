@@ -7,10 +7,12 @@
 - Java (상)
 - JSP (상)
 - HTML / CSS (상)
+- git, github (중)
 - Javascipt, JQuery (중)
 - Spring (중)
 - Kotlin (중)
 - Android Studio (중)
-- Maria DB (중) , JPA (하)
+- Maria DB (중)
+- JPA (중)
 - CentOS (하)
 
