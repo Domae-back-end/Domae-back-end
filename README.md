@@ -13,6 +13,6 @@
 - Kotlin (중)
 - Android Studio (중)
 - Maria DB (중)
-- JPA (중)
+- JPA / mybatis (중)
 - CentOS (하)
 
