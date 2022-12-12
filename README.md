@@ -15,4 +15,17 @@
 - Maria DB (중)
 - JPA / mybatis (중)
 - CentOS (하)
+- 
 
+안녕하세요, 저는 권종원입니다.
+백엔드 개발을 공부하고 있고 주로 Spring boot 를 다룹니다.
+
+🛠️ Stacks
+
+       
+
+💪🏼 Tools
+
+     
+<img src="https://img.shields.io/badge/기술명-색상코드?style=flat-square&logo=로고&logoColor=색상"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
