@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white"> 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ty_ty123@naver.com&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonJongWon123&show_icons=true&theme=radical)
 
 연락처
 이메일 - ty_ty123@naver.com
