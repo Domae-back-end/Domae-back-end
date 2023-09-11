@@ -11,6 +11,7 @@
 배우고, 팀원들에게 좋은 미소로 협업하려 노력하고 있습니다.
 
 <hr>
+</div>
 
 **💪🏼 Tools**
 
@@ -55,7 +56,6 @@
 
 ![NetData](https://img.shields.io/static/v1?style=for-the-badge&message=NetData&color=25A162&logo=NetData&logoColor=FFFFFF&label=)
 
-</div>
 <hr>
 
 **🛠️ Stats**
